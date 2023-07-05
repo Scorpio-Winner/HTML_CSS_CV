@@ -44,3 +44,8 @@
       height: auto;
   }
 
+  footer {
+      margin-top: 30px;
+      text-align: center;
+      color: #888888;
+  }
